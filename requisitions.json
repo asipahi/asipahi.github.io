@@ -10,5 +10,6 @@
 		{ "title": "Id", "field": "id" },
         { "title": "Number", "field": "Number" },
         { "title": "status", "field": "status" },
-	]
+	],
+	"total": 20
 }

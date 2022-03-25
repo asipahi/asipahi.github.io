@@ -1,15 +1,71 @@
 {
 	"data":[
 		{
-			"id": 1,
-			"number": "CCW-REQ-0001",
-			"status": "New"
+			"id": 251434,
+            "number": "ALLY-REQ-001453",
+            "title": ".NET Software Developer I",
+            "manager": "BLAKE, THOMAS  ",
+            "cost_object": "10010001 - ATL RBC CL-Hi Rsk Op",
+            "start_date": "3/25/2022",
+            "status": "New",
+            "queue_status": "Submitted to BLAKE, THOMAS for approval",
+            "next_step": "Queued For Approval",
+		},
+		{
+			"id": 251434,
+            "number": "ALLY-REQ-001453",
+            "title": ".NET Software Developer I",
+            "manager": "BLAKE, THOMAS  ",
+            "cost_object": "10010001 - ATL RBC CL-Hi Rsk Op",
+            "start_date": "3/25/2022",
+            "status": "New",
+            "queue_status": "Submitted to BLAKE, THOMAS for approval",
+            "next_step": "Queued For Approval",
+		},
+		{
+			"id": 251434,
+            "number": "ALLY-REQ-001453",
+            "title": ".NET Software Developer I",
+            "manager": "BLAKE, THOMAS  ",
+            "cost_object": "10010001 - ATL RBC CL-Hi Rsk Op",
+            "start_date": "3/25/2022",
+            "status": "New",
+            "queue_status": "Submitted to BLAKE, THOMAS for approval",
+            "next_step": "Queued For Approval",
+		},
+		{
+			"id": 251434,
+            "number": "ALLY-REQ-001453",
+            "title": ".NET Software Developer I",
+            "manager": "BLAKE, THOMAS  ",
+            "cost_object": "10010001 - ATL RBC CL-Hi Rsk Op",
+            "start_date": "3/25/2022",
+            "status": "New",
+            "queue_status": "Submitted to BLAKE, THOMAS for approval",
+            "next_step": "Queued For Approval",
+		},
+		{
+			"id": 251434,
+            "number": "ALLY-REQ-001453",
+            "title": ".NET Software Developer I",
+            "manager": "BLAKE, THOMAS  ",
+            "cost_object": "10010001 - ATL RBC CL-Hi Rsk Op",
+            "start_date": "3/25/2022",
+            "status": "New",
+            "queue_status": "Submitted to BLAKE, THOMAS for approval",
+            "next_step": "Queued For Approval",
 		}
 	],
 	"columns":[
 		{ "title": "Id", "field": "id" },
-        { "title": "Number", "field": "Number" },
-        { "title": "status", "field": "status" },
+        { "title": "Number", "field": "number" },
+        { "title": "Title", "field": "title" }
+		{ "title": "Engaging Manager", "field": "manager" },
+        { "title": "Cost Object", "field": "cost_object" },
+        { "title": "Start Date", "field": "start_date" }
+		{ "title": "Status", "field": "status" },
+        { "title": "Queue Status", "field": "queue_status" },
+        { "title": "Next Step", "field": "next_step" }
 	],
 	"total": 20
 }
